@@ -15,6 +15,8 @@
 - **Avoid duplicate content** from being added to the platform. _(UI/UX)_
 
 ## Tasks
-- [X] Fetch the data.
-- [X] Format the Data.
-- [ ] Data Distribution.
+
+- [x] Fetch the data.
+- [x] Format the Data.
+- [x] Tokenize the data.
+- [x] Data Distribution with Ray.
